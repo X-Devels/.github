@@ -3,6 +3,4 @@ A creative and energectic team capable of creating Fun, Playful, Addictive Games
 # 🗞️ Projects
 Blockman X
 # 🌐 Social
-YouTube: Coming soon
-Discord: ...
-Website: Coming soon
+YouTube: Coming soon\nDiscord: ...\nWebsite: Coming soon
