@@ -1,12 +1,41 @@
-## We are X-Devels, the developers of BlockyCraft.
-This is the official X Team Devels, not in conflict with blockman go is made to revive old versions of the game.
+X-Devels — BlockyCraft Development Team
 
-## App Made & Owners 
-Made In 2025 the original developers & contributors are: **Comical** (App Developer), **ZNFDev** (Engine Developer),**Rosario4566**(Api Developer for 1.5.1 of Blockman GO), **The King**, **Aquel**. 
+We are X-Devels, the official development team behind BlockyCraft. Our goal is to revive and preserve the experience of older versions of the game, independent of the current direction of Blockman GO.
 
-## App Status: Progress👨‍💻
-As of this writing (March 21, 2026) the App is being re-developed by **Comical**
+---
 
-# History
-The project was originally born in **February 2025** under the name **Blocky Verse**, then abandoned due to commitments in March. In May 2025 it is taken over by **Rosario4566, Comical and znfdev** and from June to July the development begins where the Beta is released for everyone, in that period we start to fix Spam Account and other bugs
-After the closure of the Beta, we decided to use a 68 engine which was developed until November, in October a second release was made with the addition of the Admin Panel for everyone.
+👨‍💻 Development Team & Credits
+
+Project Founded: 2025
+
+Core Contributors:
+
+- Comical — App Developer
+- ZNFDev — Engine Developer
+- Rosario4566 — API Developer (Blockman GO 1.5.1)
+- The King — Contributor
+- Aquel — Contributor
+
+---
+
+📊 Current Status (March 21, 2026)
+
+The application is currently in active redevelopment, led by Comical.
+
+---
+
+📜 Project History
+
+- February 2025 — The project begins under the name Blocky Verse.
+- March 2025 — Development is paused due to external commitments.
+- May 2025 — The project is revived by Rosario4566, Comical, and ZNFDev.
+- June–July 2025 — Active development resumes:
+  - Public Beta release
+  - Initial fixes for spam accounts and major bugs
+- Post-Beta — Transition to a custom 68 engine, with continued development through November
+- October 2025 — Second release:
+  - Introduction of a fully accessible Admin Panel
+
+---
+
+We continue working to improve stability, expand features, and bring back the classic gameplay experience for the community.
