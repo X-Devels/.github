@@ -32,9 +32,10 @@ The application is currently in active redevelopment, led by Comical.
 - June–July 2025 — Active development resumes:
   - Public Beta release
   - Initial fixes for spam accounts and major bugs
-- Post-Beta — Transition to a custom 68 engine, with continued development through November
+- Post-Beta — Transition to a custom 68 engine, with continued development through November (interrupted)
 - October 2025 — Second release:
   - Introduction of a fully accessible Admin Panel
+  - December 2025-March 2026 — Rest & Development Plans 
 
 ---
 
