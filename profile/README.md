@@ -26,9 +26,9 @@ The application is currently in active redevelopment, led by Comical.
 
 📜 Project History
 
-- February 2025 — The project begins under the name Blocky Verse.
+- February 2025 — The project begins under the name **Blocky Verse**.
 - March 2025 — Development is paused due to external commitments.
-- May 2025 — The project is revived by Rosario4566, Comical, and ZNFDev.
+- May 2025 — The project is revived by Rosario4566, Comical, and ZNFDev with a new app name **Block Craft**.
 - June–July 2025 — Active development resumes:
   - Public Beta release
   - Initial fixes for spam accounts and major bugs
